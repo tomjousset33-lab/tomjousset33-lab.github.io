@@ -2,12 +2,12 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: Tom's first github page
     entries:
       - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
       - title: github repo
         url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: "used by <a href='https://tomjsst-commit2.dev'>tomjsst-commit2.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
   - title: all posts
     post_list:
@@ -35,4 +35,4 @@ entries:
             url: about
   - title: PRO TIP
     entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title: to edit this menu, edit _data/menu.yml file (that's what i did in a third commit)
